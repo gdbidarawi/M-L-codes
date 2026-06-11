@@ -1,5 +1,4 @@
-Flower Disease Detection
-Iris Flower Classification
+Flower Disease Detection & Iris Flower Classification
 
 A simple Machine Learning project using Random Forest to classify Iris flowers.
 
