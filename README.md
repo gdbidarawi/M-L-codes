@@ -1,34 +1,34 @@
-Flower Disease Detection & Iris Flower Classification
+#Flower Disease Detection & Iris Flower Classification
 
 A simple Machine Learning project using Random Forest to classify Iris flowers.
 
 Simple flower disease detection using Python, TensorFlow, and MobileNetV2.
 
- Features
+ #Features
  Detect healthy and diseased flowers
  Image classification using deep learning
  Transfer learning with MobileNetV2
 
 
-Technologies
+#Technologies
 Python
 Scikit-learn
 
 
- Model
+# Model
  MobileNetV2
  Image Size: 224×224
  Batch Size: 16
  Epochs: 10
 
- Output
+# Output
 
 
 Accuracy: 98%
 
-Name: Gebreegziabher Destalem Goitom
-GitHub: https://github.com/gdbidarawi
+#Name: Gebreegziabher Destalem Goitom
+#GitHub: https://github.com/gdbidarawi
 
-License
+#License
 
 MIT License
