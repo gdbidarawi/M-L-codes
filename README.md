@@ -1,4 +1,5 @@
-#Flower Disease Detection & Iris Flower Classification
+#Flower Disease Detection 
+#Iris Flower Classification
 
 A simple Machine Learning project using Random Forest to classify Iris flowers.
 
@@ -21,7 +22,7 @@ Scikit-learn
  Batch Size: 16
  Epochs: 10
 
-# Output
+#Output
 
 
 Accuracy: 98%
